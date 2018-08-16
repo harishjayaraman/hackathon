@@ -27,12 +27,12 @@
 				<executions>
 					<execution>
 						<goals>
-							<goal>run</goal>
+							<goal>java</goal>
 						</goals>
 					</execution>
 				</executions>
 				<configuration>
-					<mainClass>com.hackathon.coreloop.ExcelReader</mainClass>
+					<mainClass>com.hackathon.coreloop</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
