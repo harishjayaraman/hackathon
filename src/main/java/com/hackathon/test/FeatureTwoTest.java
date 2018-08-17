@@ -7,43 +7,43 @@ public class FeatureTwoTest {
 	}
 
 	public void testOne() {
-		System.out.println(" Feature2: Test One");
+		System.out.println("HW12345: Test One");
 	}
 
 	public void testTwo() {
-		System.out.println("Feature2: Test Two");
+		System.out.println("HW12345: Test Two");
 	}
 
 	public void testThree() {
-		System.out.println("Feature2: Test three");
+		System.out.println("HW12345: Test three");
 	}
 
 	public void testFour() {
-		System.out.println("Feaure2: Test four");
+		System.out.println("HW12345: Test four");
 	}
 
 	public void testFive() {
-		System.out.println("Feature2: Test five");
+		System.out.println("HW12345: Test five");
 	}
 
 	public void testSix() {
-		System.out.println("Feature2: Test six");
+		System.out.println("HW12345: Test six");
 	}
 
 	public void testSeven() {
-		System.out.println("Feature2: Test Seven");
+		System.out.println("HW12345: Test Seven");
 	}
 
 	public void testEight() {
-		System.out.println("Feature2: Test eight");
+		System.out.println("HW12345: Test eight");
 	}
 
 	public void testNine() {
-		System.out.println("Feature2: Test nine");
+		System.out.println("HW12345: Test nine");
 	}
 
 	public void testTen() {
-		System.out.println("Feature2: Test Ten");
+		System.out.println("HW12345: Test Ten");
 	}
 
 }
