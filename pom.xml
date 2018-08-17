@@ -37,6 +37,14 @@
 					<mainClass>com.hackathon.coreloop.ExcelReader</mainClass>
 				</configuration>
 			</plugin>
+			<plugin>
+				<groupId>org.jenkins-ci.tools</groupId>
+				<artifactId>maven-hpi-plugin</artifactId>
+				<version>1.120</version>
+				<configuration>
+					<pluginFirstClassLoader>true</pluginFirstClassLoader>
+				</configuration>
+			</plugin>
 		</plugins>
 
 	</build>
