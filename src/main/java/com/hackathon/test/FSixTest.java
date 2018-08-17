@@ -7,7 +7,7 @@ public class FSixTest {
 	}
 
 	public void testOne() {
-		System.out.println(" Feature6: Test One");
+		System.out.println("Feature6: Test One");
 	}
 
 	public void testTwo() {

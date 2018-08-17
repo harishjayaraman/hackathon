@@ -7,7 +7,7 @@ public class FFourTest {
 	
 
 	public void testOne(){
-		System.out.println(" Feature4: Test One");
+		System.out.println("Feature4: Test One");
 	}
 	public void testTwo(){
 		System.out.println("Feature4: Test Two");
