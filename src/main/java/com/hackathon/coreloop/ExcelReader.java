@@ -38,6 +38,8 @@ public class ExcelReader {
 			featureList.add(st);
 			System.out.println(st);
 		}
+		
+		System.out.println("================================================================");
 
 		FileInputStream inputStream = new FileInputStream(new File(
 				SAMPLE_XLSX_FILE_PATH));
@@ -45,9 +47,10 @@ public class ExcelReader {
 		Workbook workbook = new XSSFWorkbook(inputStream);
 		Sheet firstSheet = workbook.getSheetAt(0);
 
-		Iterator<Row> rowIterator = firstSheet.iterator();
+		
 		
 		for (String featureName : featureList) {
+			Iterator<Row> rowIterator = firstSheet.iterator();
 			boolean isToExecute = false;
 			while (rowIterator.hasNext()) {
 				Row row = rowIterator.next();

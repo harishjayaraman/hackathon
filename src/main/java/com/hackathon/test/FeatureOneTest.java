@@ -7,11 +7,11 @@ public class FeatureOneTest {
 	}
 
 	public void testOne() {
-		System.out.println("HW12345: Test One");
+		System.out.println("BUC_10B_C: Test One");
 	}
 
 	public void testTwo() {
-		System.out.println("Feature1: Test Two");
+		System.out.println("HW12345: Test Two");
 	}
 
 	public void testThree() {
