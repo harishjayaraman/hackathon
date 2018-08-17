@@ -1,4 +1,4 @@
-package com.hackathon.coreloop;
+package com.hackathon.test;
 
 public class FFiveTest {
 
