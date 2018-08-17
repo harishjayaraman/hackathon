@@ -27,6 +27,10 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
+					<includes>
+                     <include>com/hackathon/coreloop/*.java</include>
+					 <include>com/hackathon/test/*.java</include>
+                  </includes>
 				</configuration>
 			</plugin>
 			<plugin>
